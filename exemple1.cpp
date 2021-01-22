@@ -1,5 +1,5 @@
 /***************************
-
+Alexandre PILOT
 *****************************/
 #include <iostream>	// bibliothèque de gestion des E/S
 #include <conio.h>	// gestion de la console (ici _getch())
