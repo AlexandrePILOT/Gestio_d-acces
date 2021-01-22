@@ -25,7 +25,6 @@ Fonction principale
 int main()	// Fonction principale
 {
 	int x; // ajout d'entier
-	double y; // Ajout d'un réel y
 	cout << "Bonjour tout le monde" << endl;
 
 	SetConsoleOutputCP(1252); // pour les accents
