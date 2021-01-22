@@ -24,6 +24,9 @@ Fonction principale
 *****************************/
 int main()	// Fonction principale
 {
+
+	cout << "Bonjour tout le monde" << endl;
+
 	SetConsoleOutputCP(1252); // pour les accents
 
 
