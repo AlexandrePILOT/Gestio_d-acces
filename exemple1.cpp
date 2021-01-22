@@ -13,7 +13,6 @@ Fonction principale
 int main()	// Fonction principale
 {
 	int x;
-	double y;
 	cout << Hello World << endl;
 
 
