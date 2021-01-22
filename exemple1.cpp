@@ -12,7 +12,7 @@ Fonction principale
 *****************************/
 int main()	// Fonction principale
 {
-
+	cout << Hello World << endl;
 
 
 	_getch();	// attente d'appui sur une touche
