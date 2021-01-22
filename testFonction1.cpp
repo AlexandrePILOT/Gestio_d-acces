@@ -14,7 +14,7 @@ using namespace std;
 
 
 /*****************************
-	Fonction principale
+	Fonction 1
 *****************************/
 
 void fonction1()
