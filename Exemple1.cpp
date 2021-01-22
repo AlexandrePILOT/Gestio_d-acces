@@ -1,6 +1,7 @@
 /***************************
 
 *****************************/
+// Maxime LEBEGUE
 #include <iostream>	// bibliothèque de gestion des E/S
 #include <conio.h>	// gestion de la console (ici _getch())
 #include <Windows.h> // pour activer les accents avec la commande dans le main
