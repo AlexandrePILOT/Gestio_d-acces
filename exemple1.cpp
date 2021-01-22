@@ -12,6 +12,7 @@ Fonction principale
 *****************************/
 int main()	// Fonction principale
 {
+	int x;
 	cout << Hello World << endl;
 
 
